@@ -10,13 +10,13 @@ Features:
 
 - register
     Scenario:
-        - register
+    - register
 
 - checkout
     Scenario:
-        - Adicionar produtos
-        - Remover produtos
-        - Pagamento
+    - Adicionar produtos
+    - Remover produtos
+    - Pagamento
 
 Eu escolhi essas funcionalidades e seus fluxos importantes/críticos da aplicação.
 O processo de teste de comportamento não levou em conta a experiência do usuário (UX), a interface e padrões de layout (UI), comunicação com a internet (network)
@@ -45,6 +45,7 @@ Memória do aparelho
 Armazenamento utilizado
 
 Gostaria também de ter criado testes automatizados para o aplicativo Android utilizando uiautomator que foi meu trabalho anterior.
+Também faço engenharia reversa de aplicativos.
 
 ### Built With
 
