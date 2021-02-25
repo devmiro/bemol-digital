@@ -83,6 +83,17 @@ https://dotnet.microsoft.com/download
    dotnet test
    ```
 
+#Postman Collection - ServeRest API
+
+1. Go to Url
+  ```sh
+   https://web.postman.co/
+   ```
+2. Import Tests
+  ```sh
+   import https://github.com/devmiro/bemol-digital/blob/main/BemolQA.Test/ServeAPI.postman_collection.json
+   ```
+
 ## Participante: 
 |name               |email                  |present   |desafio      |
 | --------------    | --------------------- | -------- | ----------- |
