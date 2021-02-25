@@ -44,3 +44,46 @@ Estabilidade do consumo de bateria
 Memória do aparelho
 Armazenamento utilizado
 
+Gostaria também de ter criado testes automatizados para o aplicativo Android utilizando uiautomator que foi meu trabalho anterior.
+
+### Built With
+
+* .NET Core 5.0
+* XUnit
+* Selenium
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+.NET 5.0
+```C#
+https://dotnet.microsoft.com/download
+```
+* dotnet
+  ```sh
+  dotnet run
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/devmiro/bemol-digital.git
+   ```
+2. Build and Install Nuget packages
+   ```sh
+   dotnet build
+   ```
+3. Run Project
+    ```sh
+   dotnet run
+   ```
+4. Run Tests
+  ```sh
+   dotnet test
+   ```
+
+## Participante: 
+|name               |email                  |present   |desafio      |
+| --------------    | --------------------- | -------- | ----------- |
+|Samir Carneiro José|scarneirojose@gmail.com|true      |Bemol Digital|
